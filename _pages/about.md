@@ -12,16 +12,14 @@ Biography
 I'm a first-year PhD student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). Before that, I earned my M.S. and B.S. degrees from Tianjin University, supervised by [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1139/2093.htm).
 
 
-Education
+Biography
+------
 
-🎓 Ph.D.  Computer Science and Technology, Nanjing University
-Sept. 2024 –
+ - 🎓2024.09 - Present: Nanjing University, PhD student in [NJU-3DV](http://zhuhao.cc) Lab
 
-🎓 M.S.   Information and Communication Engineering, Tianjin University
-Sept. 2021 – Jan. 2024
+ - 🎓2021.09 - 2024.01: Tianjin University, M.Eng in Information and Communication Engineering
 
-🎓 B.S.   Electronic Information Engineering, Tianjin University
-Sept. 2017 – June 2021
+ - 🎓2017.09 - 2021.06: Tianjin University, B.Eng in Electronic Information Engineering
 
 <!-- <br>
 
