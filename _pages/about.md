@@ -15,7 +15,7 @@ I'm a first-year PhD student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof
 
 <div class="row" style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: center; gap: 10px;">
     <img src="./images/nju.png" style="max-width: 130px; max-height: 100px; width: auto; height: auto;">
-    <img src="./images/xdu.png" style="max-width: 130px; max-height: 100px; width: auto; height: auto;">
+    <img src="./images/tju.png" style="max-width: 130px; max-height: 100px; width: auto; height: auto;">
 </div>
     
 <br>
