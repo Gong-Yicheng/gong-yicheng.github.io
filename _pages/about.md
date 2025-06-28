@@ -9,17 +9,17 @@ redirect_from:
 
 Biography
 ------
-I'm a first-year PhD student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). Before that, I earned my M.S. and B.S. degrees from Tianjin University, supervised by [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1139/2093.htm).
+I'm a first-year Ph.D. student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). Before that, I earned my M.Eng. and B.Eng. degrees from Tianjin University, supervised by [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1139/2093.htm).
 
 
 Biography
 ------
 
- - 🎓2024.09 - Present: Nanjing University, PhD student in [NJU-3DV](http://zhuhao.cc) Lab
+ - 🎓2024.09 - Present: Nanjing University, Ph.D. student in [NJU-3DV](http://zhuhao.cc) Lab
 
- - 🎓2021.09 - 2024.01: Tianjin University, M.Eng in Information and Communication Engineering
+ - 🎓2021.09 - 2024.01: Tianjin University, M.Eng. in Information and Communication Engineering
 
- - 🎓2017.09 - 2021.06: Tianjin University, B.Eng in Electronic Information Engineering
+ - 🎓2017.09 - 2021.06: Tianjin University, B.Eng. in Electronic Information Engineering
 
 <!-- <br>
 
