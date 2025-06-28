@@ -9,16 +9,28 @@ redirect_from:
 
 Biography
 ------
-I'm a first-year PhD student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). Before that, I earned my M.S. and B.S degrees from Tianjin University, supervised by [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1139/2093.htm).
+I'm a first-year PhD student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). Before that, I earned my M.S. and B.S. degrees from Tianjin University, supervised by [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1139/2093.htm).
 
-<br>
+
+Education
+
+🎓 Ph.D.  Computer Science and Technology, Nanjing University
+Sept. 2024 –
+
+🎓 M.S.   Information and Communication Engineering, Tianjin University
+Sept. 2021 – Jan. 2024
+
+🎓 B.S.   Electronic Information Engineering, Tianjin University
+Sept. 2017 – June 2021
+
+<!-- <br>
 
 <div class="row" style="display: flex; flex-direction: row-reverse; justify-content: center; align-items: center; gap: 10px;">
     <img src="./images/nju.png" style="max-width: 130px; max-height: 100px; width: auto; height: auto;">
     <img src="./images/tju.png" style="max-width: 130px; max-height: 100px; width: auto; height: auto;">
 </div>
     
-<br>
+<br> -->
 
 Publication
 ------
