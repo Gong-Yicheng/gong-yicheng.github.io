@@ -37,9 +37,7 @@ Publication
 <div class='paper-box-text' markdown="1">
 FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
 
-Jiawei Zhang, Zijian Wu, Zhiyang Liang, **Yicheng Gong**, Dongfang Hu, Yao Yao,
-
-Xun Cao, Hao Zhu
+Jiawei Zhang, Zijian Wu, Zhiyang Liang, **Yicheng Gong**, Dongfang Hu, Yao Yao, Xun Cao, Hao Zhu
 
 [[paper]](https://arxiv.org/abs/2411.15604)[[code]](https://github.com/zjwfufu/FateAvatar)[[homepage]](https://zjwfufu.github.io/FATE-page/)
 
@@ -50,9 +48,7 @@ Xun Cao, Hao Zhu
 <div class='paper-box-text' markdown="1">
 EmoTalk3D: High-Fidelity Free-View Synthesis of Emotional 3D Talking Head
 
-Qianyun He, Xinya Ji, **Yicheng Gong**, Yuanxun Lu, Zhengyu Diao, Linjia Huang,
-
-Yao Yao, Siyu Zhu, Zhan Ma, Songcen Xu, Xiaofei Wu, Zixiao Zhang, Xun Cao, Hao Zhu
+Qianyun He, Xinya Ji, **Yicheng Gong**, Yuanxun Lu, Zhengyu Diao, Linjia Huang, Yao Yao, Siyu Zhu, Zhan Ma, Songcen Xu, Xiaofei Wu, Zixiao Zhang, Xun Cao, Hao Zhu
 
 [[paper]](https://arxiv.org/abs/2408.00297)[[homepage]](https://nju-3dv.github.io/projects/EmoTalk3D)[[data]](https://nju-3dv.github.io/projects/EmoTalk3D/#Data_Request)
 
