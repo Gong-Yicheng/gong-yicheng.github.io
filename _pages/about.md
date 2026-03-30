@@ -9,7 +9,7 @@ redirect_from:
 
 Biography
 ------
-I'm a first-year Ph.D. student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). Previously, I was a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working in the Media Computing Group. Before that, I earned my M.Eng. and B.Eng. degrees from Tianjin University, supervised by [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1139/2093.htm).
+I'm a second-year Ph.D. student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). Previously, I was a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working in the Media Computing Group. Before that, I earned my M.Eng. and B.Eng. degrees from Tianjin University, supervised by [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1139/2093.htm).
 
 
 Education
@@ -37,8 +37,8 @@ Internship
  - 💼**2025.07 - 2026.01**: Microsoft Research Asia, Media Computing Group
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 20px;">
-    <img src="./images/tju.png" style="max-width: auto; height: 120px;">
-    <img src="./images/nju.png" style="max-width: auto; height: 120px;">
+    <img src="./images/tju.png" style="max-width: auto; height: 150px;">
+    <img src="./images/nju.png" style="max-width: auto; height: 150px;">
     <img src="./images/msra.png" style="max-width: auto; height: 120px;">
 </div>
 
