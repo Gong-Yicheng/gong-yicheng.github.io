@@ -37,9 +37,9 @@ Internship
  - 💼**2025.07 - 2026.01**: Microsoft Research Asia, Media Computing Group
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 20px;">
-    <img src="./images/tju.png" style="max-width: 120px; height: auto;">
-    <img src="./images/nju.png" style="max-width: 120px; height: auto;">
-    <img src="./images/msra.png" style="max-width: 120px; height: auto;">
+    <img src="./images/tju.png" style="max-width: auto; height: 120px;">
+    <img src="./images/nju.png" style="max-width: auto; height: 120px;">
+    <img src="./images/msra.png" style="max-width: auto; height: 120px;">
 </div>
 
 Publication
