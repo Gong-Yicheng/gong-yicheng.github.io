@@ -34,9 +34,9 @@ Education
 Internship
 ------
 
- - 💼**2026.06 - Present**: Huawei, Research Intern
+ - 💼**2026.06 - Present**: Huawei
 
- - 💼**2025.07 - 2026.01**: Microsoft Research Asia, Media Computing Group
+ - 💼**2025.07 - 2026.01**: Microsoft Research Asia
 
 <div class="affiliation-logos" aria-label="Education and internship affiliations">
     <img class="affiliation-logo affiliation-logo--seal" src="./images/tju.png" alt="Tianjin University logo">
