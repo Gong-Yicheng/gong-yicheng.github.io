@@ -90,6 +90,60 @@
 
 }
 
+.affiliation-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    column-gap: clamp(1.25rem, 4vw, 2.5rem);
+    row-gap: 1.25rem;
+    margin-top: 1.25rem;
+}
+
+.affiliation-logo {
+    display: block;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
+.affiliation-logo--seal {
+    max-width: 88px;
+    max-height: 88px;
+}
+
+.affiliation-logo--wide {
+    max-width: 168px;
+    max-height: 54px;
+}
+
+.affiliation-logo--huawei {
+    max-width: 68px;
+    max-height: 68px;
+}
+
+@media (max-width: 480px) {
+    .affiliation-logos {
+        column-gap: 1.5rem;
+        row-gap: 1rem;
+    }
+
+    .affiliation-logo--seal {
+        max-width: 72px;
+        max-height: 72px;
+    }
+
+    .affiliation-logo--wide {
+        max-width: 138px;
+        max-height: 46px;
+    }
+
+    .affiliation-logo--huawei {
+        max-width: 56px;
+        max-height: 56px;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

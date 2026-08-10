@@ -9,7 +9,7 @@ redirect_from:
 
 Biography
 ------
-I'm a second-year Ph.D. student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). Previously, I was a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working in the Media Computing Group. Before that, I earned my M.Eng. and B.Eng. degrees from Tianjin University, supervised by [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1139/2093.htm).
+I'm a third-year Ph.D. student in [NJU-3DV](http://zhuhao.cc), supervised by [Prof. Hao Zhu](http://zhuhao.cc/home) and [Prof. Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html). Currently, I am a research intern at [Huawei](https://www.huawei.com/en/). Previously, I was a research intern at [Microsoft Research Asia (MSRA)](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), working in the Media Computing Group. Before that, I earned my M.Eng. and B.Eng. degrees from Tianjin University, supervised by [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1139/2093.htm).
 
 
 Education
@@ -34,17 +34,31 @@ Education
 Internship
 ------
 
+ - 💼**Present**: Huawei, Research Intern
+
  - 💼**2025.07 - 2026.01**: Microsoft Research Asia, Media Computing Group
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px; margin-top: 20px;">
-    <img src="./images/tju.png" style="max-width: auto; height: 150px;">
-    <img src="./images/nju.png" style="max-width: auto; height: 150px;">
-    <img src="./images/msra.png" style="max-width: auto; height: 120px;">
+<div class="affiliation-logos" aria-label="Education and internship affiliations">
+    <img class="affiliation-logo affiliation-logo--seal" src="./images/tju.png" alt="Tianjin University logo">
+    <img class="affiliation-logo affiliation-logo--seal" src="./images/nju.png" alt="Nanjing University logo">
+    <img class="affiliation-logo affiliation-logo--wide" src="./images/msra.png" alt="Microsoft Research Asia logo">
+    <img class="affiliation-logo affiliation-logo--huawei" src="./images/huawei.svg" alt="Huawei logo">
 </div>
 
 Publication
 ------
 <!-- *\* co-first author* -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://arxiv.org/html/2604.14541v1/figs/Teaser_half.jpg' alt="Emotion-interpolated 3D head avatars" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+Giving Faces Their Feelings Back: Explicit Emotion Control for Feedforward Single-Image 3D Head Avatars
+
+**Yicheng Gong**, Jiawei Zhang, Liqiang Liu, Yanwen Wang, Lei Chu, Jiahao Li, Hao Pan, Hao Zhu, Yan Lu
+
+[[paper]](https://arxiv.org/abs/2604.14541)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/fate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 FATE: Full-head Gaussian Avatar with Textural Editing from Monocular Video
@@ -77,4 +91,3 @@ Qianyun He, Xinya Ji, **Yicheng Gong**, Yuanxun Lu, Zhengyu Diao, Linjia Huang, 
 * First Prize, China Undergraduate Mathematical Contest in Modeling in Shaanxi Province -->
 
 <br>
-
