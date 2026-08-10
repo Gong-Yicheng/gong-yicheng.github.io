@@ -34,7 +34,7 @@ Education
 Internship
 ------
 
- - 💼**Present**: Huawei, Research Intern
+ - 💼**2026.06 - Present**: Huawei, Research Intern
 
  - 💼**2025.07 - 2026.01**: Microsoft Research Asia, Media Computing Group
 
